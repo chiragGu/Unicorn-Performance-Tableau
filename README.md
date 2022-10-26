@@ -26,4 +26,4 @@ Unicorns are privately-owned startup with a valuation of over $1 billion. A comp
 
 ## How to Use?
 
-Download the project files and in #####BI_Final_Project.twbx##### file make sure the file provided is #####unicorns_CSV.csv#####
+Download the project files and in BI_Final_Project.twbx file make sure the file provided is unicorns_CSV.csv
